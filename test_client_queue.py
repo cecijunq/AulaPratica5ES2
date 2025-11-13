@@ -1,5 +1,5 @@
 import unittest
-from src.client_queue import insert_client, buys
+from client_queue import insert_client, buys
 
 class TestClientQueue(unittest.TestCase):
 
